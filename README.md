@@ -11,7 +11,9 @@
 🔍 Currently looking for a job in Switzerland in the following roles:
 
     - Data Analyst (primarily in finance)
+    
     - Business Analyst
+    
     - Product Owner
 
 🔭 Completed a two-week project for AirInt, which involved:
