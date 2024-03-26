@@ -27,10 +27,10 @@
 - I'm currently working on new projects to add to my portfolio.
 
 ### 🌱 Learning
-- I'm continuously learning about data analytics and more!
+- I'm continuously learning about data analytics and more via podcasts !
 
 ### 📫 Contact
-- Email: gregoire.@gmail.com
+- Email: gregoire.lbe@gmail.com
 - Phone: +33 7 84 10 76 89
 
 ### 🔗 Portfolio
