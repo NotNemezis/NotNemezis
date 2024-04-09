@@ -32,6 +32,7 @@
 ### 📫 Contact
 - Email: gregoire.lbe@gmail.com
 - Phone: +33 7 84 10 76 89
-
+<!-- 
 ### 🔗 Portfolio
 - [GitHub Portfolio](WIP)
+-->
