@@ -3,36 +3,51 @@
 ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pxZXdha21kZWRxazljbTUwcWd2cHJjdW8zNW8zeDBxYTdpNGVhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 ### 👩‍🎓 Education
-- Studied Accounting for 3 years, including 1 year in apprenticeship.
-  - I enjoyed the finance and accounting domains but didn't see myself working in them directly.
-- Graduated from Le Wagon's data analytics bootcamp.
+- **Current Education**: Pursuing a Master's in Data Science.
+- **Previous Education**: Bachelor's in Data Analysis.
+- **Initial Education**: Studied Accounting for 3 years, including 1 year in apprenticeship.
+
+### 📊 Career Shift
+- Initially trained in financial accounting, I reoriented towards data analytics and decision support, aligning more closely with my passions. My expertise includes:
+  - Team collaboration
+  - Case studies
+  - Analytical projects with coding capabilities
+  - Financial development support
+  - Business studies
+  - Presentation and communication
 
 ### 🔍 Job Search
-- Currently looking for a job in Switzerland in the following roles:
-  - Data Analyst (primarily in finance)
+- Actively seeking roles in:
+  - Data Analyst (especially in finance)
   - Business Analyst
   - Product Owner
 
 ### 🔭 Projects
-- Completed a two-week project for AirInt, which involved:
+- **AirInt Project**: A two-week project involving:
   - Data collection
   - Data cleaning
-  - Creating dashboards
-  - Analyzing data from the dashboards
-- This project was made possible with the help of three collaborators:
+  - Dashboard creation
+  - Data analysis
+  - [Project Details](https://nathaliegidon.github.io/AirInt_project)
+- Collaborators:
   - [Nathalie Gidon](https://github.com/nathaliegidon)
   - [Maxence Gery](https://github.com/maxencegery)
   - [Jaqueline Santillan](https://github.com/JackieSntm)
-  
-- I'm currently working on new projects to add to my portfolio.
 
-### 🌱 Learning
-- I'm continuously learning about data analytics and more via podcasts !
+- **Current Work**: Developing new projects to enhance my portfolio.
+
+### 🌱 Continuous Learning
+- Constantly expanding my knowledge in data analytics through various channels, including podcasts!
+
+### 🎵 Interests
+- Outdoor and team sports
+- Music
+- Cinema
+- Fintech
+- Economic and societal podcasts
 
 ### 📫 Contact
-- Email: gregoire.lbe@gmail.com
-- Phone: +33 7 84 10 76 89
-<!-- 
-### 🔗 Portfolio
-- [GitHub Portfolio](WIP)
--->
+- **Email**: gregoire.lbe@gmail.com
+- **Phone**: +33 7 84 10 76 89
+
+Feel free to reach out for collaboration or opportunities in data analytics, business analysis, and product ownership.
