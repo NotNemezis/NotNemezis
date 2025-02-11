@@ -5,7 +5,7 @@
 ### 👩‍🎓 Education
 - **Current Education**: Pursuing a Master's in Data Science.
 - **Previous Education**: Bachelor's in Data Analysis.
-- **Initial Education**: Studied Accounting for 3 years, including 1 year in apprenticeship.
+- **Initial Education**: Studied Accounting and finance for 3 years, including 1 year in apprenticeship.
 
 ### 📊 Career Shift
 - Initially trained in financial accounting, I reoriented towards data analytics and decision support, aligning more closely with my passions. My expertise includes:
