@@ -48,6 +48,5 @@
 
 ### 📫 Contact
 - **Email**: gregoire.lbe@gmail.com
-- **Phone**: +33 7 84 10 76 89
 
 Feel free to reach out for collaboration or opportunities in data analytics, business analysis, and product ownership.
